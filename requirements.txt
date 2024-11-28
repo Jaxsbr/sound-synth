@@ -1,0 +1,4 @@
+pyaudio
+synthesizer
+openai
+python-dotenv
